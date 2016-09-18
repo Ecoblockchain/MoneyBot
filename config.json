@@ -1,12 +1,13 @@
 {
     "token": "",
     "weatherunderground": "",
+    "wolfram": "",
     "commandRoles": {
         "join": [],
         "leave": [],
         "youtube": [],
         "testroles": [
-            "cool"
+            "nice", "cool"
         ]
     },
     "servers": {
