@@ -1,5 +1,5 @@
-var DiscordBot = require('./lib/bot').DiscordBot
-var config = require('./lib/config');
+const config = require('./lib/config');
+const DiscordBot = require('./lib/bot').DiscordBot;
 
 var bot = null;
 
